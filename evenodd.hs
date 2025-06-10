@@ -4,4 +4,4 @@ main::IO()
 main=do
            putStrLn "Enter a number"
            n<-readLn
-           putStrLn(evenodd n)
+           putStrLn(evenodd n
